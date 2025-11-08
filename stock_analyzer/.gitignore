@@ -1,0 +1,16 @@
+# Data and Analysis Files
+*.csv
+*.json
+*.xlsx
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Matplotlib/Graph Output (if saved)
+*.png 
+*.jpg
+
+# Editor files (like VS Code or Jupyter)
+.vscode/
+.ipynb_checkpoints
